@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Md</h1>
-<h3 align="center">A passionate developer 🚀</h3>
 
 ---
 
