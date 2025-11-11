@@ -2,7 +2,7 @@ name: 🧮 GitHub Metrics Daily
 
 on:
   schedule:
-    - cron: "0 6 * * *"  # midnight Central Time
+    - cron: "0 6 * * 1"  # midnight Central Time
   workflow_dispatch:
 
 jobs:
@@ -27,9 +27,13 @@ jobs:
 
           # Plugins
           plugin_lines: yes
+          plugin_lines_sections: base, repositories, history
           plugin_languages: yes
           plugin_traffic: yes
           plugin_stars: yes
           plugin_isocalendar: yes
           plugin_habits: yes
           plugin_habits_facts: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
