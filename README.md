@@ -27,17 +27,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabul-islam&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aftabul-islam&theme=tokyonight)
-
----
-
-### 🌱 Contribution Graph  
-[![Aftabul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aftabul-islam&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 👁️ Visitor Count  
-![Profile views](https://komarev.com/ghpvc/?username=Aftabul-islam&color=blueviolet)
 
 ---
 
