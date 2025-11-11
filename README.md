@@ -1,46 +1,50 @@
+<h1 align="center">Hi 👋, I'm MD</h1>
 
+---
 
-<!--
-**Aftabul-islam/Aftabul-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Skills & Tools
 
-Here are some ideas to get you started:
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-<h1 align="center">Hi 👋, I'm Md</h1>
+#### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aftabul-islam&show_icons=true&theme=radical" alt="GitHub stats" />
+
+![Aftabul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aftabul-islam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabul-islam&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aftabul-islam&theme=tokyonight)
+
+---
+
+### 🌱 Contribution Graph  
+[![Aftabul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aftabul-islam&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 👁️ Visitor Count  
+![Profile views](https://komarev.com/ghpvc/?username=Aftabul-islam&color=blueviolet)
+
+---
+
+### 💬 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-aftabul-islam-6a50b2208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💻 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftabul-islam&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aftabul-islam&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<!-- <p align="center">✨ Thanks for visiting my profile! ✨</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aftabul-islam&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile views" />
-</p> -->
