@@ -1,12 +1,9 @@
-name: Generate Metrics
+name: 🧮 GitHub Metrics Daily
 
 on:
-  schedule: 
-    - cron: "0 0 * * 1"  
-  workflow_dispatch:     
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"  # every day at midnight
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -20,10 +17,17 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_lines: yes             
+
+          # Output & commit config
+          filename: github-metrics.svg
+          committer_branch: main
+          committer_message: "chore: update metrics"
+
+          # Plugins
+          plugin_lines: yes
           plugin_languages: yes
-          plugin_stars: yes
           plugin_traffic: yes
+          plugin_stars: yes
           plugin_isocalendar: yes
           plugin_habits: yes
           plugin_habits_facts: yes
