@@ -20,4 +20,3 @@ Yeah… that’s on the private repos. Trust.
 ![RAG](https://img.shields.io/badge/RAG-2F6FEB?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 
-![GitHub Metrics](https://raw.githubusercontent.com/Aftabul-islam/Aftabul-islam/main/github-metrics.svg)
